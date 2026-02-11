@@ -56,4 +56,4 @@ Este proyecto es una Single Page Application (SPA) moderna, diseñada para mostr
 
 ## 📄 Licencia
 
-Este proyecto es propiedad de Delicia Kebab 2.
+Este proyecto es propiedad de F4R3.COM
